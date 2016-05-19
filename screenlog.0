@@ -1,0 +1,7 @@
+kroot@controller:~/myopenstack\[1;38m[root@controller myopenstack]#[0m pwd
+/root/myopenstack
+kroot@controller:~/myopenstack\[1;38m[root@controller myopenstack]#[0m ls -trl
+total 4
+-rw-r--r--. 1 root root 75 May 17 20:06 screenlog.0
+kroot@controller:~/myopenstack\[1;38m[root@controller myopenstack]#[0m screen -L
+kroot@controller:~/myopenstack\[1;38m[root@controller myopenstack]#[0m 
